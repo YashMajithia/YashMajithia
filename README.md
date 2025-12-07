@@ -34,7 +34,7 @@ Learning Data Analytics and its principles to thrive in a data-oriented world. I
 ---
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yashmajithia)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/yashmajithia](https://www.linkedin.com/in/yash-majithia-84767124b/))  
 - 📧 Email: yashmajithia@proton.me  
 - 🐙 GitHub: [github.com/YashMajithia](https://github.com/YashMajithia)  
 
