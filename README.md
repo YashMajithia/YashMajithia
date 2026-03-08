@@ -79,13 +79,13 @@ Tools: Power BI, DAX, Power Query
 
 ## 📫 Connect With Me
 
-💼 [LinkedIn]  
+💼 LinkedIn 
 https://www.linkedin.com/in/yash-majithia-84767124b/
 
 📧 Email  
 yashmajithia@proton.me
 
-🐙 [GitHub]  
+🐙 GitHub  
 https://github.com/YashMajithia
 
 ---
